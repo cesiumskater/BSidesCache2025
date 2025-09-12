@@ -31,13 +31,13 @@ Fortunately, we caught the piece of malware before it propagated, which allowed 
 
 ## Slide 4 - Big Wins & Real Challenges
 
-If you asked me what a normal day looked like, I couldn't give you a real answer. I've had the opportunity to work with some heavy hitters such as Hershey's Chocolate, Pepsi, McDonald's, the U.S. Department of Homeland Security, the U.S. Army, the U.S. Air Force, and even NASA.
+If you asked me what a normal day looked like, I couldn't give you a real answer. I've had the opportunity to work with organizations such as Hershey's Chocolate, Pepsi, McDonald's, the Department of Homeland Security, the U.S. Army, the U.S. Air Force, and even NASA.
 
 I'm the Ambassador for the Northern Utah area for Simply Cyber, shutout to #TeamSC!
 
 If you haven't checked it out, Simply Cyber is a SANS-awarded podcast that runs every weekday.
 
-- It's been a goldmine for helping me to stay sharp in the industry, earn free CPEs, and make some incredible friends along the way. If you aren't already there, join us in Discord. If you are, top by the #locals-info room and get your role to join our areas room. 
+- It's been a goldmine for helping me to stay sharp in the industry, earn free CPEs, and make some incredible friends along the way. If you aren't already there, join us in Discord. If you ***are*** there, stop by the #locals-info room and get your role to join our areas room. 
 -You can check it out by visiting simplycyber.io/discord
 ## Slide 5 - Where Cybersecurity Meets Humanity
 
@@ -48,7 +48,7 @@ Because throughout all the different industries I've worked in, I've learned tha
 		It's about the people behind each project, each team, each interaction, and the experiences that shape us.
 
 Today, I'm here to talk about turning challenges into strengths, and I can't wait to dive in with you, so let's get started.
-	I’ve reviewed a lot of content for this, and while I’ll do my best to cover the highlights, there are some parts I just won’t have time to dig into fully. If something catches your interest and you’d like to explore it in more detail, I’ll make the full presentation available on my GitHub.
+	I’ve reviewed a lot of content for this, and I’ll do my best to cover the highlights. If something catches your interest and you’d like to explore it in more detail, I’ll make the full presentation available on my GitHub.
 
 
 ## Slide 6 - Technical Debt: A Hidden Threat

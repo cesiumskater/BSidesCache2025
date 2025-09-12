@@ -1,6 +1,7 @@
 
 Simply Cyber #TeamSC https://www.simplycyber.io/discord
 BSidesSLC (includes BSidesCache) https://discord.gg/RJHqkThRKR
+Utah County Hackers https://discord.gg/dhZaKhfEkH
 SaintCon https://discord.gg/saintcon
 801Labs https://discord.gg/U6UJsZhnxv
 Boot.dev https://discord.gg/bootdotdev
